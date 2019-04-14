@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="action_settings">Settings</string>
+    <string name="change_contact">Change Contact</string>
+    <string name="change_sound">Change Sound</string>
+    <string name="name">John Doe</string>
+    <string name="avatar">Avatar</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string-array name="name_list">
+        <item>John Doe</item>
+        <item>Jane Doe</item>
+        <item>Jan Kowalski</item>
+        <item>Krystyna Kowalska</item>
+        <item>Jakub Anonimowy</item>
+    </string-array>
+    <string name="sound1">Sound 1</string>
+    <string name="sound2">Sound 2</string>
+    <string name="sound3">Sound 3</string>
+    <string name="sound4">Sound 4</string>
+    <string name="sound5">Sound 5</string>
+    <string name="current_sound_str">current sound str</string>
+    <string name="back_message"> </string>
+</resources>
